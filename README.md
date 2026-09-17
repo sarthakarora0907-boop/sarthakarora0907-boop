@@ -1,4 +1,4 @@
-# Hi, I'm Sarthak Arora 👋
+# Hi, I'm Sarthak Arora 👋 
 
 ### B.Tech CSE (AI & ML) Student | Aspiring Software Developer
 
